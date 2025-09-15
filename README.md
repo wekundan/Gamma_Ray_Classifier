@@ -1,4 +1,4 @@
-# Gamma Ray Classifier 🚀
+# Gamma Ray Classifier
 
 Flask app that predicts whether a telescope event is:  
 - **Gamma Ray Event (Signal)**  
@@ -41,6 +41,14 @@ pip install -r requirements.txt
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+
+## SnapShots
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/045eebdb-e27b-4e98-a81d-c51e9aea1d72" />
+<img width="1654" height="657" alt="image" src="https://github.com/user-attachments/assets/e404ac0b-4cbc-4c06-9e9b-71562dec14d4" />
+
+
+
 
 
 ## Future Scope

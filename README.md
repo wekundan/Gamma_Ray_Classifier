@@ -33,3 +33,23 @@ The dataset is **not included in the repo** due to size, but you can download it
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+## Technologies Used
+
+[![Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-ff9900?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+
+## Future Scope
+- Use multiple Algorithms
+- Optimize Flask app.py
+- Front-End
+
+
+
+
+
+
